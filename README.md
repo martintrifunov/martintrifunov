@@ -25,9 +25,9 @@ Welcome to my github! People usually call me maco. I'm a full-stack developer th
                 
 ### 📫 How to reach me:
 
-<a href="https://discordapp.com/users/98160408765939712" target="_blank"><img align="left" alt="Discord" style="padding-right:10px;" src="https://skillicons.dev/icons?i=discord" target="_blank"/></a>
-<a href="https://www.linkedin.com/in/martin-trifunov/" target="_blank"><img align="left" alt="Linkedin" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" target="_blank"/></a>
-<a href="mailto:martintrifunov@proton.me" target="_blank"><img align="left" alt="Email" style="padding-right:10px;" width="48px" src="https://static-00.iconduck.com/assets.00/mail-icon-512x512-klfgoc95.png" target="_blank"/></a>   
+<a href="https://discordapp.com/users/98160408765939712"><img align="left" alt="Discord" style="padding-right:10px;" src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://www.linkedin.com/in/martin-trifunov/"><img align="left" alt="Linkedin" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:martintrifunov@proton.me"><img align="left" alt="Email" style="padding-right:10px;" width="48px" src="https://static-00.iconduck.com/assets.00/mail-icon-512x512-klfgoc95.png" /></a>   
 <br />
 
 #
